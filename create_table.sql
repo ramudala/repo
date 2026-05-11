@@ -1,6 +1,6 @@
 CREATE TABLE emp (
-    name        VARCHAR2(100),
-    designation VARCHAR2(100),
-    project     VARCHAR2(100),
-    company     VARCHAR2(100)
+    name        VARCHAR2(50),
+    designation VARCHAR2(50),
+    project     VARCHAR2(50),
+    company     VARCHAR2(50)
 );
